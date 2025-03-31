@@ -70,6 +70,7 @@ You can use these configuration files in your V2Ray client by importing the link
 ## Automating the Process
 To automate the running of the script and uploading the generated files to GitHub, you can create a shell script (for Linux/macOS) or a batch file (for Windows). This allows you to execute the entire process with a single command.
 ### Example Shell Script (`automate.sh`)
+
 ```bash
 #!/bin/bash
 
@@ -115,7 +116,9 @@ fi
 echo "Automated script executed successfully!"
 
 ```
-
+```bash
+chmod +x automate.sh
+```
 
 ### Example Batch File (`automate.bat` for Windows)
 ```batch
