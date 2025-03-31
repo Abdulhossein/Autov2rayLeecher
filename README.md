@@ -186,37 +186,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## Autov2rayLeecher
-### Sub
-The `sub` directory contains region-specific folders with configuration files:
-
-- **France**
-- **Serbia**
-- **Canada**
-- **Czech Republic**
-- **Finland**
-- **Italy**
-- **China**
-- **Netherlands**
-- **Hong Kong**
-- **Turkey**
-- **Sweden**
-- **Ireland**
-- **Singapore**
-- **Iran**
-- **Austria**
-- **Costa Rica**
-- **Bahrain**
-- **United Kingdom**
-- **United States**
-- **United Arab Emirates**
-- **Slovak Republic**
-- **Switzerland**
-- **Germany**
-- **Poland**
-
----
-
 ### Resolve Pending Changes Before Merging
 Ensure that all local changes are resolved and committed before merging to avoid conflicts. Run:
 
