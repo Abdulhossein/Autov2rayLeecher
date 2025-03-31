@@ -179,13 +179,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## Instructions
-- Replace `yourusername` with your actual GitHub username in the clone command.
-- Adjust the paths in the automation scripts to point to your actual project directory.
-- Save the content as `README.md` in your repository’s root directory.
-
----
-
 ### Resolve Pending Changes Before Merging
 Ensure that all local changes are resolved and committed before merging to avoid conflicts. Run:
 
