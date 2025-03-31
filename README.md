@@ -116,7 +116,7 @@ fi
 echo "Automated script executed successfully!"
 
 ```
-**Correct Permissions
+### Correct Permissions
 ```bash
 chmod +x automate.sh
 ```
