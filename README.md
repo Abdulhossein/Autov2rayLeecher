@@ -1,7 +1,10 @@
 # Autov2rayLeecher
+## V2Ray Configuration Collector
 
-# V2Ray Configuration Collector
 This repository contains a Python script that collects V2Ray configuration links from specified Telegram channels, categorizes them by region based on the IP addresses contained within the links, and saves these configurations into a structured directory. Additionally, it updates a README file to include links to the saved configurations.
+
+---
+
 ## Table of Contents
 - [Features](#features)
 - [Requirements](#requirements)
@@ -11,25 +14,31 @@ This repository contains a Python script that collects V2Ray configuration links
 - [Automating the Process](#automating-the-process)
 - [Contribution](#contribution)
 - [License](#license)
+
+---
+
 ## Features
 - Collects V2Ray configuration links from various Telegram channels.
 - Categorizes configurations by region based on IP addresses.
 - Saves configurations in a structured folder format.
 - Automatically updates a README file with links to the saved configurations.
+
+---
+
 ## Requirements
 - Python 3.x
 - `requests` library
 - `beautifulsoup4` library
-You can install the required libraries using pip:
-bash
+
+Install the required libraries using pip:
+
+```bash
 pip install requests beautifulsoup4
-
-
 
 ## Installation
 1. **Clone the Repository**:
    Clone this repository to your local machine:
-bash
+```bash
 git clone https://github.com/yourusername/V2rayConfigs.git
 cd V2rayConfigs
 
@@ -37,8 +46,8 @@ cd V2rayConfigs
 
 2. **Run the Script**:
    Make sure you have Python installed, and then run the script:
-bash
-python leecher.py
+```bash
+python3 leecher.py
 
 
 
@@ -61,7 +70,7 @@ You can use these configuration files in your V2Ray client by importing the link
 ## Automating the Process
 To automate the running of the script and uploading the generated files to GitHub, you can create a shell script (for Linux/macOS) or a batch file (for Windows). This allows you to execute the entire process with a single command.
 ### Example Shell Script (`automate.sh`)
-bash
+```bash
 #!/bin/bash
 
 Step 1: Run the Python script
@@ -82,7 +91,7 @@ git push origin main  # Change 'main' to your branch name if different
 
 
 ### Example Batch File (`automate.bat` for Windows)
-batch
+```batch
 @echo off
 
 REM Step 1: Run the Python script
