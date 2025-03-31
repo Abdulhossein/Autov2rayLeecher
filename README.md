@@ -3,6 +3,10 @@
 
 This repository contains a Python script that collects V2Ray configuration links from specified Telegram channels, categorizes them by region based on the IP addresses contained within the links, and saves these configurations into a structured directory. Additionally, it updates a README file to include links to the saved configurations.
 
+## V2Ray Mixed Configurations URLS - for those who are just users 😁👍
+```bash
+https://raw.githubusercontent.com/Abdulhossein/Autov2rayLeecher/refs/heads/main/sub/Mix/mix.txt
+```
 ---
 
 ## Table of Contents
