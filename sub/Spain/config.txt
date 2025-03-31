@@ -1,0 +1,2 @@
+vless://ec5867ce-4e91-5bcc-bcdc-fea4d6b312a8@176.120.74.36:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc&sni=vpnandroid2.com.vpnandroid2.com.vpnandroid2.com.vpnandroid2.com.vpnandroid2.com.vpnandroid2.com.vpnandroid2.com.vpnandroid2.com#[🏁]t.me/MoftConfig🆔
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozZ1FnNE9XSzZoUDVYNjQwY01SQlp6@194.87.45.189:443#🇪🇸
