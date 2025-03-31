@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Autov2rayLeecher
 ## V2Ray Configuration Collector
 
@@ -74,20 +73,47 @@ To automate the running of the script and uploading the generated files to GitHu
 ```bash
 #!/bin/bash
 
-Step 1: Run the Python script
-python3 leecher.py
+# Enable strict mode to catch errors early
+set -e  # Exit immediately if a command exits with a non-zero status
+set -o pipefail  # Ensures all parts of a pipeline fail correctly
 
-Step 2: Navigate to the project directory
-cd path/to/your/project  # Change this to your actual path
+# Step 1: Navigate to the project directory
+PROJECT_DIR="path/to/your/project"  # Change this to your actual path
+cd "$PROJECT_DIR" || { echo "Error: Directory $PROJECT_DIR does not exist."; exit 1; }
 
-Step 3: Add the sub folder to Git
-git add sub
+# Step 2: Run the Python script
+if ! python3 leecher.py; then
+  echo "Error: Python script failed to execute."
+  exit 1
+fi
 
-Step 4: Commit changes
-git commit -m "Update V2Ray configuration files"
+# Step 3: Add the sub folder to Git
+if ! git add sub; then
+  echo "Error: Failed to add sub folder to Git."
+  exit 1
+fi
 
-Step 5: Push changes to GitHub
-git push origin main  # Change 'main' to your branch name if different
+# Step 4: Commit changes
+if ! git commit -m "Update V2Ray configuration files"; then
+  echo "Error: Git commit failed. Check for staged changes or conflicts."
+  exit 1
+fi
+
+# Step 5: Pull the latest changes from the remote repository to prevent push rejection
+if ! git pull origin main --rebase; then
+  echo "Error: Failed to pull and rebase. Check for conflicts."
+  exit 1
+fi
+
+# Step 6: Push changes to GitHub
+if ! git push origin main; then
+  echo "Error: Failed to push changes to the remote repository."
+  exit 1
+fi
+
+# Output success message
+echo "Automated script executed successfully!"
+
 ```
 
 
@@ -95,20 +121,50 @@ git push origin main  # Change 'main' to your branch name if different
 ```batch
 @echo off
 
-REM Step 1: Run the Python script
-python3 leecher.py
+REM Enable error handling to stop the script on failure
+setlocal EnableDelayedExpansion
 
-REM Step 2: Navigate to the project directory
-cd path\to\your\project  REM Change this to your actual path
+REM Step 1: Navigate to the project directory
+cd /d path\to\your\project  REM Change this to your actual path
+
+REM Step 2: Run the Python script
+python leecher.py
+if errorlevel 1 (
+  echo Error: Python script execution failed.
+  exit /b 1
+)
 
 REM Step 3: Add the sub folder to Git
 git add sub
+if errorlevel 1 (
+  echo Error: Failed to stage the 'sub' folder for Git.
+  exit /b 1
+)
 
 REM Step 4: Commit changes
 git commit -m "Update V2Ray configuration files"
+if errorlevel 1 (
+  echo Error: Git commit failed. Check for staged changes or conflicts.
+  exit /b 1
+)
 
-REM Step 5: Push changes to GitHub
-git push origin main  REM Change 'main' to your branch name if different
+REM Step 5: Pull the latest changes from remote
+git pull origin main --rebase
+if errorlevel 1 (
+  echo Error: Failed to pull and rebase the latest changes from remote.
+  exit /b 1
+)
+
+REM Step 6: Push changes to GitHub
+git push origin main
+if errorlevel 1 (
+  echo Error: Failed to push changes to the remote repository.
+  exit /b 1
+)
+
+REM Output success message
+echo Automate script executed successfully!
+exit /b 0
 ```
 
 
