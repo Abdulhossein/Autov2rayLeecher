@@ -34,21 +34,21 @@ Install the required libraries using pip:
 
 ```bash
 pip install requests beautifulsoup4
-
+```
 ## Installation
 1. **Clone the Repository**:
    Clone this repository to your local machine:
 ```bash
 git clone https://github.com/yourusername/V2rayConfigs.git
 cd V2rayConfigs
-
+```
 
 
 2. **Run the Script**:
    Make sure you have Python installed, and then run the script:
 ```bash
 python3 leecher.py
-
+```
 
 
 This will generate a folder named `sub` containing the V2Ray configuration files.
@@ -87,7 +87,7 @@ git commit -m "Update V2Ray configuration files"
 
 Step 5: Push changes to GitHub
 git push origin main  # Change 'main' to your branch name if different
-
+```
 
 
 ### Example Batch File (`automate.bat` for Windows)
@@ -108,7 +108,7 @@ git commit -m "Update V2Ray configuration files"
 
 REM Step 5: Push changes to GitHub
 git push origin main  REM Change 'main' to your branch name if different
-
+```
 
 
 ## Contribution
