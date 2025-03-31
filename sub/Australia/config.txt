@@ -1,0 +1,1 @@
+vless://7347196d-e2e2-4daa-bd2b-a73a3eba05a1@syd5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇦🇺%20Australia🆔
