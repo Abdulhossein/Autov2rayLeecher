@@ -95,7 +95,7 @@ git push origin main  # Change 'main' to your branch name if different
 @echo off
 
 REM Step 1: Run the Python script
-python leecher.py
+python3 leecher.py
 
 REM Step 2: Navigate to the project directory
 cd path\to\your\project  REM Change this to your actual path
