@@ -1,8 +1,5 @@
-vless://16b74d86-96e1-4526-bc25-6fd213cd1579@sin5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇸🇬%20Singapore🆔
-vless://9341f756-19c6-4f14-bf5f-b82fb2206f71@sin5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇸🇬%20Singapore🆔
-trojan://Aimer@124.156.202.172:443/?type=ws&host=agepn.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560&security=tls&sni=agepn.ambercc.filegear-sg.me&alpn=http%2F1.1#⚜️Telegram:@IP_CF•••••••••••••••••••••••••••••••••••📢
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@139.59.119.143:443?security=tls&headerType=none&type=tcp&sni=connectwithemployers.online#⚜️Telegram:@IP_CF•••••••••••••••••••••••••••••••••••📢
-trojan://27647410-b4df-11ed-850d-1239d0255272@sg1.socifiles.com:443?security=tls&headerType=none&type=tcp#⚜️Telegram:@IP_CF•••••••••••••••••••••••••••••••••••📢
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@139.59.119.143:443?security=tls&headerType=none&type=tcp&sni=connectwithemployers.online#⚜️Telegram:@IP_CF•••••••••••••••••••••••••••••••••••📢
 ss://YWVzLTI1Ni1nY206Q1pXR0tWVktFVDJCVFJCSw%3D%3D@154.196.244.12:16002#Singapore%20Velo
 trojan://74260716866785000@47.130.23.75:443?security=tls&headerType=none&type=tcp&sni=hardy-haddock.shiner427.skin#Singapore%20AWS
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@139.59.119.143:443?security=tls&headerType=none&type=tcp&sni=connectwithemployers.online#Singapore%20Digital%20Ocean
