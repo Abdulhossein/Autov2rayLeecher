@@ -1,0 +1,2 @@
+vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@119.195.104.2:32400?allowInsecure=1&sni=edccu.aimercc.filegear-sg.me&type=ws&path=/?ed=2560&proxyip=ts.hpc.twsecurity=tls#telegram
+trojan://Aimer@119.202.249.46:50000?sni=epcca.ambercc.filegear-sg.me#telegram

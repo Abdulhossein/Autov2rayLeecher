@@ -1,0 +1,2 @@
+vless://ccbd413f-4aa0-4b36-8fd8-68f5ddb8b404@145.239.86.241:2052?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc#👉🆔@MoftConfig📡🇵🇱®️Poland©️Wroclaw
+vless://7cba58a6-3938-47e7-9afb-e267372da01f@64.176.64.104:8080?type=ws&security=none&path=%2F#telegram
