@@ -1,1 +1,2 @@
 trojan://dQUWbcwECl@74.176.59.185:443?security=tls&sni=automq3-proxy.automq-sg.com#telegram
+vless://069a115f-5e7b-458a-df32-022e1a2b435f@64.176.41.232:13546?type=ws&security=none&path=%2F#telegram

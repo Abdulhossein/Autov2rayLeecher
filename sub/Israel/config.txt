@@ -1,1 +1,3 @@
+vless://b91b53d5-f9bf-4b84-865d-8c17b722dca1@tel5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇮🇱%20Israel🆔
 vless://bcf9e8f0-2ac1-45ec-d73b-b3774824edc2@64.176.162.44:8080?type=ws&security=none&path=%2F#telegram
+vless://aee4fd2a-6e03-4502-aec6-5e4ef51aae3d@64.176.173.82:8080?type=ws&security=none&path=%2F#telegram

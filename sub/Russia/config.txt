@@ -1,5 +1,1 @@
 trojan://1a8EBLaDBL@ru2.asc-sam.ir:443?mode=auto&path=%2F%40NoForcedHeaven%40NoForcedHeaven%40NoForcedHeaven%40NoForcedHeaven&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&type=xhttp&sni=ru2.asc-sam.ir#⚜️Telegram:@IP_CF•••••••••••••••••••••••••••••••••••📢
-vless://c8898cfd-9927-4f36-b7bc-40de76076b80@109.120.189.30:443?security=tls&flow=xtls-rprx-vision-udp443&sni=maviks.eu&fp=chrome#telegram
-vless://ef95dcd1-bee4-432f-a44f-0268c7773db0@test.eldenmonodefense5.ir:2087?encryption=none&security=tls&sni=test.eldenmonodefense5.ir&alpn=h2&fp=chrome&allowInsecure=1&type=grpc#telegram
-vless://ef95dcd1-bee4-432f-a44f-0268c7773db0@test.eldenmonodefense5.ir:2087?encryption=none&security=tls&sni=test.eldenmonodefense5.ir&alpn=h2&fp=chrome&allowInsecure=1&type=grpc#telegram
-vless://ef95dcd1-bee4-432f-a44f-0268c7773db0@test.eldenmonodefense5.ir:2087?encryption=none&security=tls&sni=test.eldenmonodefense5.ir&alpn=h2&fp=chrome&allowInsecure=1&type=grpc#telegram
