@@ -1,2 +1,1 @@
-vless://fd99e44d-a046-4477-b48b-8f15bc0f217a@64.176.73.209:9200/?type=tcp&encryption=none&sni=www.pcmag.com&fp=chrome&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=#[🏁]t.me/MoftConfig🆔
 vless://d371883a-d331-4172-d2ab-6e7727868050@70.34.249.19:8080?type=ws&security=none&path=%2F#telegram

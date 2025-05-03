@@ -1,3 +1,5 @@
+trojan://telegram-id-privatevpns@54.247.127.29:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#👉🆔@MoftConfig📡🇮🇪®️Ireland©️Dublin🅿️ping:40.9ms🆔
+vless://7f93e196-1b2f-4a42-8051-5815554c05db@34.244.165.99:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&sni=zula.ir&fp=chrome&pbk=GbWTeH8a_C8FLKqJ2hyuoY77WsSQIJschXB16usasCg&sid=7a2b&spx=/&alpn=h2#👉🆔@MoftConfig📡🇮🇪®️Ireland©️Dublin🅿️ping:41.25ms🆔
 trojan://telegram-id-vlessconfig@18.200.164.156:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@VlessConfig
 trojan://telegram-id-vlessconfig@18.203.133.90:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@VlessConfig
 trojan://telegram-id-vlessconfig@54.247.127.29:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@VlessConfig

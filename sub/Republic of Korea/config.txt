@@ -1,1 +1,0 @@
-trojan://Aimer@119.202.249.46:50000?sni=epcca.ambercc.filegear-sg.me#telegram
