@@ -1,4 +1,3 @@
-trojan://74260671232757400@game-seagull.shiner427.skin:443?allowInsecure=0&sni=game-seagull.shiner427.skin#👉🆔@MoftConfig📡🇸🇬®️Singapore©️Singapore🅿️ping:262.05ms🆔
 vless://663b1ddd-86e9-47e4-f4b6-8bfa93b11951@149.28.149.179:8080?type=ws&security=none&path=%2F#telegram
 ss://YWVzLTI1Ni1nY206Q1pXR0tWVktFVDJCVFJCSw%3D%3D@154.196.244.12:16002#Singapore%20Velo
 trojan://74260716866785000@47.130.23.75:443?security=tls&headerType=none&type=tcp&sni=hardy-haddock.shiner427.skin#Singapore%20AWS
