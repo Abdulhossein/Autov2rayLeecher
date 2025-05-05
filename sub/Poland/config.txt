@@ -1,2 +1,2 @@
-vless://d371883a-d331-4172-d2ab-6e7727868050@70.34.249.19:8080?type=ws&security=none&path=%2F#telegram
 vless://616b2df2-3360-4dcf-f001-895adf60c982@64.176.69.80:8080?type=ws&security=none&path=%2F#telegram
+vless://af2eb800-481b-4b7d-ced8-fc90bcfc91df@70.34.246.120:8080?type=ws&security=none&path=%2F#telegram
