@@ -1,4 +1,1 @@
-vless://84254a16-61b1-4c6d-9da6-a6611d7a56b8@108.61.185.41:8080?type=ws&security=none&path=%2F#telegram
-vless://bb4c1f49-f2ca-4059-db48-e5e4b23458a8@45.63.24.35:8080?type=ws&security=none&path=%2F#telegram
-vless://38599da9-b69c-4787-f9af-ba056b7ebf81@149.28.183.15:8080?type=ws&security=none&path=%2F#telegram
-vless://a39fc099-e0d9-41f5-9019-1abf29fee8a6@45.77.232.77:8080?type=ws&security=none&path=%2F#telegram
+vless://7b905c7f-6c01-4960-ef69-9093c7a808e6@67.219.97.125:8080?type=ws&security=none&path=%2F#telegram
