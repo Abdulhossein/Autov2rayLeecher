@@ -1,3 +1,0 @@
-vless://7cba58a6-3938-47e7-9afb-e267372da01f@108.61.200.205:8080?type=ws&security=none&path=%2F#telegram
-vless://dccc6749-c2bb-44dc-b79e-37a898544538@167.179.112.229:34759?type=tcp&security=none#telegram
-vless://cfeaed3d-25b4-4d91-8524-34be88ceac2a@107.191.61.217:8080?type=ws&security=none&path=%2F#telegram
