@@ -1,8 +1,0 @@
-vless://10b59513-ef76-4494-a925-305ec45dd3a4@83.147.252.63:2040?security=reality&encryption=none&pbk=iPjWLvXWt7ABJaSRRwzjgLrvlJlwoYQZN8zF-G3D-Qs&headerType=none&fp=chrome&type=tcp&sni=fr.ign.com&sid=27cfa05000c23cc4#[🇫🇮]t.me/ConfigsHubϟ
-vless://f38e1473-0bb8-4190-8d49-ba1aaaf4e264@postac.floorshoping22.com:2087?mode=gun&security=tls&alpn=h2&encryption=none&fp=chrome&type=grpc&sni=postac.floorshoping22.com#telegram
-vless://f38e1473-0bb8-4190-8d49-ba1aaaf4e264@postac.floorshoping22.com:2087?mode=gun&security=tls&alpn=h2&encryption=none&fp=chrome&type=grpc&sni=postac.floorshoping22.com#telegram
-vless://f38e1473-0bb8-4190-8d49-ba1aaaf4e264@pot2.floorshoping22.com:2087?encryption=none&security=tls&sni=pot2.floorshoping22.com&alpn=h2&fp=chrome&allowInsecure=1&type=grpc#telegram
-vless://f38e1473-0bb8-4190-8d49-ba1aaaf4e264@postac.floorshoping22.com:2087?mode=gun&security=tls&alpn=h2&encryption=none&fp=chrome&type=grpc&sni=postac.floorshoping22.com#telegram
-vless://f38e1473-0bb8-4190-8d49-ba1aaaf4e264@postac.floorshoping22.com:2087?mode=gun&security=tls&alpn=h2&encryption=none&fp=chrome&type=grpc&sni=postac.floorshoping22.com#telegram
-vless://f38e1473-0bb8-4190-8d49-ba1aaaf4e264@pics.floorshoping22.com:2087?encryption=none&security=tls&sni=pics.floorshoping22.com&alpn=h2&fp=chrome&allowInsecure=1&type=grpc#telegram
-vless://f38e1473-0bb8-4190-8d49-ba1aaaf4e264@pics.floorshoping22.com:2087?encryption=none&security=tls&sni=pics.floorshoping22.com&alpn=h2&fp=chrome&allowInsecure=1&type=grpc#telegram
