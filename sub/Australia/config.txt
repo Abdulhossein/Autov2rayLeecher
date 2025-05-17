@@ -1,1 +1,0 @@
-vless://ef34e9b4-c368-4ecc-9b3b-5c3cf4756056@139.84.194.249:8080?type=ws&security=none&path=%2F#telegram
