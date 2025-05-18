@@ -1,0 +1,1 @@
+vless://a5053089-8d6e-0ef9-8d09-aebb94f33aff@146.19.143.150:5234?security=reality&encryption=none&pbk=1juiWgfU1-cGsbu9zxKCly7Vn3WGES5x6S86r90_vwc&host=%2FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yandex.com&sid=b7e284c9b786f709#[🏁]t.me/ConfigsHubϟ

@@ -1,1 +1,2 @@
+vless://wgpazu9paq@94.131.12.63:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=%2FJOKERRVPNJoin_Bade_Channel@JOKERRVPN&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=wgpazu9paq-941311263-direct.threea.org#👉🆔@MoftConfig📡🇨🇭®️Switzerland©️Bern🅿️ping:55.59ms🆔
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@156.146.62.161:443#Switzerland%20Datacamp
