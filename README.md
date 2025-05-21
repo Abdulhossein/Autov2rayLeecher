@@ -194,21 +194,7 @@ git pull origin main --rebase
 ## Sub
 | Sub |
 |-----|
-| [Republic of Moldova](https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/main/sub/Republic%20of%20Moldova/config.txt) |
-| [France](https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/main/sub/France/config.txt) |
-| [Canada](https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/main/sub/Canada/config.txt) |
-| [Czech Republic](https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/main/sub/Czech%20Republic/config.txt) |
-| [Finland](https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/main/sub/Finland/config.txt) |
-| [Japan](https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/main/sub/Japan/config.txt) |
-| [Netherlands](https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/main/sub/Netherlands/config.txt) |
-| [Sweden](https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/main/sub/Sweden/config.txt) |
-| [Republic of Lithuania](https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/main/sub/Republic%20of%20Lithuania/config.txt) |
-| [Thailand](https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/main/sub/Thailand/config.txt) |
-| [United States](https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/main/sub/United%20States/config.txt) |
-| [Switzerland](https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/main/sub/Switzerland/config.txt) |
-| [Germany](https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/main/sub/Germany/config.txt) |
-| [Poland](https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/main/sub/Poland/config.txt) |
-| [Russia](https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/main/sub/Russia/config.txt) |
+
 
 
 
