@@ -1,3 +1,5 @@
+vless://5a24dc4b-4711-402a-ec6d-7c174b290c83@92.112.53.153:18217?security=none&encryption=none&headerType=none&type=tcp#👉🆔@MoftConfig📡🇯🇵®️Japan©️Chiyoda🅿️ping:293.08ms🆔
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@103.106.228.132:990#⚜️Telegram:@IP_CF•••••••••••••••••••••••••••••••••••📢
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@149.22.87.241:443#Japan%20Datacamp
 ss://YWVzLTI1Ni1nY206dFZQVmxVZ1FoajlpN3ZIT0hpajNkYUNKRVVaeGN0RVE5eG9qMFdUNUE4dz0%3D@139.162.106.142:11359#Japan%20Akamai
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@149.22.87.240:443#Japan%20Datacamp
