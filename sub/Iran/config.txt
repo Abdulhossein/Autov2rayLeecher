@@ -1,3 +1,1 @@
-vless://2a24c8e0-aff5-4fa7-9d63-e80715c0c410@185.79.158.154:8087?security=none&encryption=none&host=%2FChannel%40ShadowProxy66%2F%40ShadowProxy66&headerType=http&type=tcp#👉🆔@MoftConfig📡🇮🇷®️Iran©️Isfahan🅿️ping:117.63ms🆔
-vless://f0a5cb24-f24b-4f5b-9820-72ff28825d5b@7f.startrich.site:2086?path=%2F&security=none&encryption=none&type=ws#👉🆔@MoftConfig📡🇮🇷®️Iran©️Tehran🅿️ping:101.36ms🆔
 vless://8d77300a-0a55-44de-8be8-5c52be2ee905@as2.irantls.com:8443?path=%2F&security=none&encryption=none&type=ws#%E2%9C%94%EF%B8%8E%F0%9D%90%9C%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%9E%F0%9D%90%A5%E2%9E%AA%40ConfigV2rayForFreeربات

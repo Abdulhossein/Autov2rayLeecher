@@ -1,0 +1,1 @@
+trojan://0fc9c5ff-9531-4178-966f-7d958e1df64b@45.67.229.222:443/?type=tcp&security=tls&sni=morse-stank-most.stark-industries.solutions&allowInsecure=1#👉🆔@MoftConfig📡🇲🇩®️Moldova©️Chisinau🅿️ping:65.16ms🆔
