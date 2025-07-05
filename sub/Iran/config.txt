@@ -1,7 +1,4 @@
-vless://ae9539b5-70dd-41b5-9666-11a29559a840@84.47.233.110:59761?security=none&encryption=none=Telegram:@ghalagyann-Telegram:@ghalagyann-Telegram:@ghalagyann&host=Fast.com&headerType=http&fp=chrome&type=tcp#[🇮🇷]t.me/MoftConfig🆔
-vless://6718b144-8aeb-4b91-a846-c44b04803610@103.215.223.192:443?security=none&encryption=none&headerType=http&type=tcp#[🇮🇷]t.me/MoftConfig🆔
-vless://078d1927-b545-4ae3-a4cf-648409e3dc28@94.182.136.116:56895?encryption=none&security=none&type=tcp&headerType=none#⚜️Telegram:@IP_CF•••••••••••••••••••••••••••••••••••📢
-vless://983b3a34-13af-4dee-9e9a-97a4590405bd@v2shop28.bing-net.com:4928?security=&encryption=none&host=varzesh3.com&headerType=http&type=tcp#telegram
+vless://8d4a9bc5-27a2-4b79-9c7e-e02a37967b86@pfwie.marfanet.com:55700?flow=&type=tcp&security=reality&fp=safari&sni=refersion.com&pbk=upY29Nxcyc_8q8shNAv_0XNdn0WJdy93iNlKbxLmFUA&sid=ae839dceb524a40b&spx=/blog/category/technology/&mux=4#👉🆔@Moftconfig📡🇩🇪®️Germany©️Karlsruhe
 vless://d294704b-a728-4395-ac07-505902aa04b8@193.151.130.152:8070?path=%2F&security=none&encryption=none&type=ws#telegram
 vless://6a7d79ea-47d7-4358-b324-7dadb7b5b7c8@v2shop31.bing-net.com:4931?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#telegram
 vless://ae9539b5-70dd-41b5-9666-11a29559a840@84.47.233.110:59761?security=&encryption=none&host=Fast.com&headerType=http&type=tcp#telegram
@@ -12,6 +9,8 @@ vless://86ea1fb6-a7bf-40af-9bf6-a7dc3771e52e@188.212.97.147:6010?security=none&e
 vless://84e7d7ea-fbb8-4a62-b3c6-a22165a21bee@185.133.125.8:19151?security=none&encryption=none&host=soft98.ir&headerType=http&type=tcp#telegram
 vless://41bd1a4c-855e-4ebc-85ce-9c927840fa82@iranserver.com:2095?path=@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet&encryption=none&security=none&type=ws&host=www.myket.ir.www.cafebazaar.ir.%E5%83%8F%E9%B8%9F%E4%B8%80%E6%A0%B7%E8%87%AA%E7%94%B1.online.#@Easy_Free_VPN
 vless://078d1927-b545-4ae3-a4cf-648409e3dc28@94.182.136.116:56895?security=none&encryption=none&headerType=none&type=tcp#%E2%9C%94%EF%B8%8E%F0%9D%90%9C%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%9E%F0%9D%90%A5%E2%9E%AA%40ConfigV2rayForFreevless://61ea20dc-2022-4215-924c-99198157d0a7@85.133.249.58:29294?security=none&encryption=none&headerType=none&type=tcp#%E2%9C%94%EF%B8%8E%F0%9D%90%9C%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%9E%F0%9D%90%A5%E2%9E%AA%40ConfigV2rayForFree✅ربات
+vless://c6d3fbea-72d5-46c9-a6a1-1225ed8ff6f7@as6.irantls.com:8080?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#%E2%9C%94%EF%B8%8E%F0%9D%90%9C%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%9E%F0%9D%90%A5%E2%9E%AA%40ConfigV2rayForFree👩‍🚀ربات
+vless://c6d3fbea-72d5-46c9-a6a1-1225ed8ff6f7@as6.irantls.com:8080?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#%E2%9C%94%EF%B8%8E%F0%9D%90%9C%F0%9D%…
 vless://8c658fd7-3253-4254-8366-ed2282360cac@2.144.5.61:17432?security=&encryption=none&host=telewebion.com&headerType=http&type=tcp#iSeqaro
 vless://01e3cb69-c63c-49d4-b652-cc98ae4a6ea5@85.133.238.84:9089?path=%2F&security=none&encryption=none&host=zula.ir&type=ws#iSeqaro
 vless://7d57ddc5-2d3e-44ad-ad55-d2b5e96b9b2e@103.215.221.116:49138?security=none&encryption=none&headerType=none&type=tcp#%E2%9A%AA%20iSeqaro
