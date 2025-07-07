@@ -1,2 +1,0 @@
-vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@185.251.81.254:8880?security=none&type=ws&host=yg.bantony199.top&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3#telegram
-vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@185.251.80.254:8880?type=ws&host=yg.bantony199.top&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3#telegram
