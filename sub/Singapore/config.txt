@@ -1,3 +1,5 @@
+trojan://3774827088566296576@13.213.142.42:443?security=tls&sni=exotic-bengal.treefrog761.one&type=tcp&allowInsecure=1#⚜️Telegram:@IP_CF•••••••••••••••••••••••••••••••••••📢
+trojan://3774827088566296576@13.213.142.42:443?security=tls&sni=exotic-bengal.treefrog761.one&type=tcp&allowInsecure=1#⚜️Telegram:@IP_CF•••••••••••••••••••••••••••••••••••📢
 vless://379e0540-16f2-4221-9717-b409a0dd5799@5.223.55.159:443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#telegram
 vless://379e0540-16f2-4221-9717-b409a0dd5799@5.223.55.159:443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#telegram
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4U2VCNzZTajV1NENnOU12b0p3cTN1@68.183.179.190:35565#Singapore%20Digital%20Ocean
