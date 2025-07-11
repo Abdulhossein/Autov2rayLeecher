@@ -1,1 +1,0 @@
-vless://cd54a584-2aeb-4a81-8558-84822c5e60d1@3.250.1.12:443?security=reality&encryption=none&pbk=J2bRPBQbUXzfoe-sch7fxMlzKqaX2L0kEm4Rcly6Kgo&headerType=none&fp=chrome&type=tcp&sni=chatgpt.com&sid=d0c43a7737#telegram
