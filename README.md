@@ -218,6 +218,8 @@ git pull origin main --rebase
 | [Germany](https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/main/sub/Germany/config.txt) |
 | [Poland](https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/main/sub/Poland/config.txt) |
 | [Mexico](https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/main/sub/Mexico/config.txt) |
+| [Australia](https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/main/sub/Australia/config.txt) |
+
 
 
 
