@@ -1,2 +1,2 @@
-vless://dded32a9-2f13-4673-bc90-47be2f384bb1@92.223.2.40:13000?type=ws&security=none#S560-189600
-vless://42dd56ff-6949-408c-e390-7191f9520274@85.90.207.130:32819?type=ws&security=none&path=%2F#S580-199555
+vless://3f28ba72-d5c7-4318-b050-9e03cc6004ae@93.115.240.74:14200?type=ws&security=none#S575-199500
+vless://78fd28c2-d68a-4f2b-b547-7912bae8a7c0@85.90.207.130:44467?type=ws&security=none&path=%2F#S580-195600
